@@ -75,6 +75,7 @@ public class WelcomerTest {
 
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
 19. В ответе пришлите ссылку на репозиторий.
+[Ссылка на репозиторий](https://github.com/Skrypnikoviv/example-teamcity)
 
 ---
 
